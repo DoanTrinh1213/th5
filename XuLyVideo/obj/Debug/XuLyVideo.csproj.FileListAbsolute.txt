@@ -1,0 +1,14 @@
+D:\DA-PHUONG-TIEN\Code\XuLyVideo\XuLyVideo\bin\Debug\XuLyVideo.exe.config
+D:\DA-PHUONG-TIEN\Code\XuLyVideo\XuLyVideo\bin\Debug\XuLyVideo.exe
+D:\DA-PHUONG-TIEN\Code\XuLyVideo\XuLyVideo\bin\Debug\XuLyVideo.pdb
+D:\DA-PHUONG-TIEN\Code\XuLyVideo\XuLyVideo\obj\Debug\XuLyVideo.csproj.AssemblyReference.cache
+D:\DA-PHUONG-TIEN\Code\XuLyVideo\XuLyVideo\obj\Debug\XuLyVideo.ExtractAudioForm.resources
+D:\DA-PHUONG-TIEN\Code\XuLyVideo\XuLyVideo\obj\Debug\XuLyVideo.ExtractFramesForm.resources
+D:\DA-PHUONG-TIEN\Code\XuLyVideo\XuLyVideo\obj\Debug\XuLyVideo.Form1.resources
+D:\DA-PHUONG-TIEN\Code\XuLyVideo\XuLyVideo\obj\Debug\XuLyVideo.MergeImagesForm.resources
+D:\DA-PHUONG-TIEN\Code\XuLyVideo\XuLyVideo\obj\Debug\XuLyVideo.MuteVideoForm.resources
+D:\DA-PHUONG-TIEN\Code\XuLyVideo\XuLyVideo\obj\Debug\XuLyVideo.Properties.Resources.resources
+D:\DA-PHUONG-TIEN\Code\XuLyVideo\XuLyVideo\obj\Debug\XuLyVideo.csproj.GenerateResource.cache
+D:\DA-PHUONG-TIEN\Code\XuLyVideo\XuLyVideo\obj\Debug\XuLyVideo.csproj.CoreCompileInputs.cache
+D:\DA-PHUONG-TIEN\Code\XuLyVideo\XuLyVideo\obj\Debug\XuLyVideo.exe
+D:\DA-PHUONG-TIEN\Code\XuLyVideo\XuLyVideo\obj\Debug\XuLyVideo.pdb
